@@ -1,7 +1,7 @@
-emoji :v: y'all!
+emoji :angel: y'all!
 ***
 about_me
->  Hi I'm Mark, I like to code and do 3D graphics.
+>  Hi I'm Beverly, the only daughter of Betty and Romeo, 19 years of age, Iloilo City, Philippines!!!.
 
 hugot_lines/inspirational_quotes /other_stuffs
-> "Never accept the world as it appears to be. Dare to see it for what it could be" - Dr. Harold Winston, Overwatch
+> "I solemnly swear that I am up to no good"
